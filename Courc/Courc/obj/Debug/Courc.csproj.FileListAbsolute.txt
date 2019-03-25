@@ -1,0 +1,7 @@
+C:\Users\luang\source\repos\Courc\Courc\bin\Debug\Courc.exe.config
+C:\Users\luang\source\repos\Courc\Courc\bin\Debug\Courc.exe
+C:\Users\luang\source\repos\Courc\Courc\bin\Debug\Courc.pdb
+C:\Users\luang\source\repos\Courc\Courc\obj\Debug\Courc.csprojAssemblyReference.cache
+C:\Users\luang\source\repos\Courc\Courc\obj\Debug\Courc.csproj.CoreCompileInputs.cache
+C:\Users\luang\source\repos\Courc\Courc\obj\Debug\Courc.exe
+C:\Users\luang\source\repos\Courc\Courc\obj\Debug\Courc.pdb

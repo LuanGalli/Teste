@@ -1,0 +1,5 @@
+C:\Users\luang\source\repos\CourseVet\CourseVet\bin\Debug\CourseVet.dll
+C:\Users\luang\source\repos\CourseVet\CourseVet\bin\Debug\CourseVet.pdb
+C:\Users\luang\source\repos\CourseVet\CourseVet\obj\Debug\CourseVet.csproj.CoreCompileInputs.cache
+C:\Users\luang\source\repos\CourseVet\CourseVet\obj\Debug\CourseVet.dll
+C:\Users\luang\source\repos\CourseVet\CourseVet\obj\Debug\CourseVet.pdb
